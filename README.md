@@ -86,6 +86,10 @@ Building a RESTful Web Service
 Serving Web Content with Spring MVC
 Building REST services with Spring
 Preview
+![image](https://github.com/user-attachments/assets/1d49e15e-df93-48f3-ae06-fbb71a568dfc)
+
+![image](https://github.com/user-attachments/assets/aeab64f0-bfea-4103-8e14-a1e173e68e45)
+
 ![image](https://github.com/user-attachments/assets/0cb0b965-fd87-40fc-92d1-020902e0b931)
 
 
